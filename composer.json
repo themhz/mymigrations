@@ -1,0 +1,13 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.12.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "swaf\\" : "./"
+        }        
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.15"
+    }
+}
